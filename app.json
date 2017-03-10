@@ -15,7 +15,7 @@
         },
         "DB_HOST": {
             "description": "MySQL database host.",
-            "value": "localhost"
+            "value": "d6ybckq58s9ru745.cbetxkdyhwsb.us-east-1.rds.amazonaws.com"
         },
         "DB_PORT": {
             "description": "MySQL database port.",
@@ -23,11 +23,11 @@
         },
         "DB_USERNAME": {
             "description": "MySQL database username.",
-            "value": "root"
+            "value": "dl9y3ogm6lpcf5cc"
         },
         "DB_PASSWORD": {
             "description": "MySQL database password.",
-            "value": "password"
+            "value": "g68b0u7fhs256tga"
         },
         "DB_NAME": {
             "description": "MySQL database name.",
