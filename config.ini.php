@@ -1,12 +1,12 @@
 ; <?php exit; ?> DO NOT REMOVE THIS LINE
 ; file automatically generated or modified by Piwik; you can manually override the default values in global.ini.php by redefining them in this file.
 [database]
-host = <?php $_ENV['y06qcehxdtkegbeb.cbetxkdyhwsb.us-east-1.rds.amazonaws.com']; ?>
-username = <?php $_ENV['nm5eswfvzfprnosj']; ?>
-password = <?php $_ENV['oqlj7nras3j4xbpr']; ?>
-dbname = <?php $_ENV['piwik']; ?>
-tables_prefix = <?php $_ENV['piwik_']; ?>
-port = <?php $_ENV['3306']; ?>
+host = <?php $_ENV['DB_HOST']; ?>
+username = <?php $_ENV['DB_USERNAME']; ?>
+password = <?php $_ENV['DB_PASSWORD']; ?>
+dbname = <?php $_ENV['DB_NAME']; ?>
+tables_prefix = <?php $_ENV['DB_PREFIX']; ?>
+port = <?php $_ENV['DB__PORT']; ?>
 charset = "utf8"
 
 [General]
